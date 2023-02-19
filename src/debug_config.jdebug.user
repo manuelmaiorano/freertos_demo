@@ -1,0 +1,19 @@
+
+OpenDocument="tasks.c", FilePath="C:/projects/freertos_demo/src/Middleware/Third_Party/FreeRTOS/Source/tasks.c", Line=3354
+OpenDocument="cmsis_os2.c", FilePath="C:/projects/freertos_demo/src/Middleware/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c", Line=1836
+OpenDocument="main.c", FilePath="C:/projects/freertos_demo/src/Src/main.c", Line=15
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Call Stack", DockArea=RIGHT, x=0, y=2, w=421, h=122, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=3, w=421, h=91, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=1
+OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=579, h=189, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x0
+OpenWindow="Global Data", DockArea=RIGHT, x=0, y=1, w=421, h=97, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=184, h=449, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Console", DockArea=BOTTOM, x=0, y=0, w=786, h=189, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="RTOS", DockArea=RIGHT, x=0, y=0, w=421, h=136, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, Showing=""
+TableHeader="Global Data", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type";"Scope"], ColWidths=[100;100;100;100;100;242]
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[27;27;27;27;242]
+TableHeader="Call Stack", SortCol="Function", SortOrder="ASCENDING", VisibleCols=["Function";"Stack Frame";"Source";"PC";"Return Address";"Stack Used"], ColWidths=[222;105;100;100;112;100]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[100;105;224]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[26;26;26;31]
